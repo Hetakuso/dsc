@@ -1,7 +1,7 @@
 //EP1 - Estatística Básica
  
 //Autor: Felipe Chen
-//Data: 04/06/2021
+//Data: 9/11/2021
            
 
 
