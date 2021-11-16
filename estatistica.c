@@ -164,8 +164,10 @@ int statistics (int a){
 int main(){
     
     int l;
-    int n = 5;
-    
+    int n;
+    printf("Entre a quantidade de elementos que deseja usar:\n");
+    scanf("%d", &n);
+  
     l= statistics (n);
     
 
