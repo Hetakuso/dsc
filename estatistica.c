@@ -34,7 +34,7 @@ int compare (const void *a,const void *b) {
     }
 }
 
-int statistics (int a){
+float statistics (int a){
     //Função que vai receber os números e devolver resultados 
     //Tem argumento, "a", como o número de elementos que serão inseridos no vetor
     
